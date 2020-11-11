@@ -15,12 +15,25 @@
           background-size: cover;
           
         }
+        .overlay {
+            background: #a9b7be;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #b8bcd6, #b8bcd6);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #b8bcd6, #b8bcd6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            opacity: 0.5;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
       </style>
 </head>
 
 <body>
     <form action="/enfermedades" method="post">
-        
+        <div class="overlay"></div>
         <div class="container mt-5 ">
             <h2 class="text-center">Diagnostico de enfermedades</h2>
             <div class="row mt-5">
