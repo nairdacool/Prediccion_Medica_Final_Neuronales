@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prediccionmedica",
+  "private_key_id": "af76ed98d0d599b941f8189ac7b190b0146a8134",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDhqOG2tiJAooD0\nm8a0jNWBYphKIMrBZ+Pv78u3FAZ4XfBIEJzcw9Eu7mCbqEbB86OYMw9umkoBzy5q\n54BbNWwZPyekIjkWmuhwPzjhq6z09iTmQGDarb3kmSu5y7b5zJaie4cXNZvNtHnu\ncb60t0pW76DFZVwNkIoxEwBdCUlPCg9U199aN+5//R7gPRGiBwz+Zb4CZaTGBpn2\nZQJbv3oXWuIhi4nWOlmPxM8y2eBcFyW+D8KXZkRk4MA1jZyMymnG0jUNkCUFfn0E\nYzCooQ1uuSYW52rrwchzqaxNVHhBw3zMsekBYHFhwnf5qBs5NDXePFVcLLqcs4aS\nSZMrSHPNAgMBAAECggEALuvJuw8WAjCH9dSqNYKPJm8U0V0OK7bpa0uGJVQxoDeQ\nLbvekfzZcxO33MXZqJx7aLs9OzczqjqlIS9vvgdWqc069eLz0eJ18FkE/8+NkAXa\nWFIMkYvMz0qWD/Tu3/QNYk2jIk1QTy52qADYsYTnHTqISGMyB9QFF/0mdzHmH1vJ\nFkGTG7qxnX+/2s0bsUwDhuB04HfX4mnAyq3kpKc3uypcCasY6IYkTRqO2YET3Q/w\nAJmb8SWO85aHjuRG7bi84GqWMh5o7Z4OoVm5R4Ov/F4rkit5CpVSHh9ec/Bd067S\nZHCzpLEVADlvfDYRs+QKYXXBanL4ia36QC9nGX4JAQKBgQD6/W9LNZFBqj9HnvJd\nz9oreUL1n0jQ6rGeAGUQffrjhzJJlJo/8m8zh5jOKoUjpVT/nher4u3Diwo68oXI\nH7wqXGhaij/Wb9LSuTEjliSaGo/6Rde/Zf1GJaBOC7gYQjbu+z9c/0OIWk8RMReX\noVOdr2nOaA/oBKPKPLD8dWw+QQKBgQDmKgIv1ndr2YePjnKTieQzR6FLPBR/puzZ\nKSRPEsQ5VrCV64KIb7GVcs4hTl4RJ8e1XBxy2yRlQE7OWeWCvlTHXmZ/hJk794wP\n5pt8gfbaKd69wrBdDSc3rXYmASieXhtT854qvpmxt3g3Wtetiy7CRgCEqGWU+1F4\nUzxJXpOqjQKBgFmMDicRJ4/8A7Oz29jojXgxPViQydPvyAsNLQGjUN3YoHJsGFR0\nVIRX/oaf2PyMwjSo3N0wi4/WjYHWgTCTUfjzGzAiXwBMyTTxaby+lrR8gZ3TSVQ6\nORDL39O4jqfpB9xfu42cbSW6wrbpgvdQUZrSuLcxnWs0LJO875BC/KmBAoGAKOsA\n9oY3Nto2SmQ1pFsYUbGDUD+/GS6Q3s58oP4iGlt6Cz0SOLU6qen+EVfAS2Z6D5jv\nic/BuapkGDVNIyA5LDRxHmxxXYLVyKHjtI/aVdCpw6yP9Ar5lOFmprz//p+WVidy\nUAEQi9KlMZoZy8V5q5oMT4ksff7r7etGRXjl4aUCgYAmOa9UUHlqHUEZwRBeCYrn\n/B6gbouXgzwjvEO+k0GrGM04VCz7KPpv9UJSSECaDJxXmsdsjMl/++eW2l1+4Tou\naNB/3hrcv4Arqe95QwBy8uAv6U+ikvmHtUSfcowrlBOGbFqOK7rtxhss/XC2Gbe0\nd2KznUzgFYNjk0PygHJgPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ecdmg@prediccionmedica.iam.gserviceaccount.com",
+  "client_id": "118345928857551294991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ecdmg%40prediccionmedica.iam.gserviceaccount.com"
+}
